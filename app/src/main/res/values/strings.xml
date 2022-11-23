@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Chernomorcev</string>
+    <string name="SignIn">Sign In</string>
+    <string name="email">Email</string>
+    <string name="password">Пароль</string>
+    <string name="Profile">Профиль</string>
+    <string name="Reg">Register</string>
+    <string name="SI">Sign in</string>
+    <string name="Menu">Menu</string>
+    <string name="title_activity_second_menu">SecondMenu</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Menu</string>
+    <string name="title_notifications">Profile</string>
+    <string name="city">Введите город</string>
+    <string name="weather">Узнать погоду</string>
+</resources>
